@@ -13,5 +13,5 @@ else {
 $.getScript("http://www.YOURDOMAIN.com/js/GA.js");
 $.getScript("http://www.YOURDOMAIN.com/js/Hubspot.js");
   console.log('Analytics scripts loaded.');
-}
+} 
 ```
